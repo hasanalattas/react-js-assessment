@@ -6,13 +6,15 @@ This project was built using the following technologies:
 
 ## Live App
 
-Check out the live app [here](https://example.com).
+Check out the live app [here](https://trello-app-assessment.vercel.app).
 
 ## Video Tutorial
 
-Watch the video tutorial [here](https://example.com).
+Watch the video tutorial [here](https://drive.google.com/file/d/1l1B0xnSpT2KoL9qsNvFyg1EILChrOehP/view?usp=sharing).
 
 In the project directory, you can run:
+
+### `yarn start` or ### `npm install`
 
 ### `npm start`
 
