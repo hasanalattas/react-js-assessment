@@ -6,7 +6,7 @@ This project was built using the following technologies:
 
 ## Live App
 
-Check out the live app [here](https://trello-app-assessment.vercel.app).
+Check out the live app [here](https://react-js-assessment.vercel.app).
 
 ## Video Tutorial
 
