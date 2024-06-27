@@ -14,7 +14,7 @@ Watch the video tutorial [here](https://drive.google.com/file/d/1l1B0xnSpT2KoL9q
 
 In the project directory, you can run:
 
-### `yarn start` or `npm install`
+### `yarn install` or `npm install`
 
 ### `npm start`
 
